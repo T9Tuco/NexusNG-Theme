@@ -8,36 +8,36 @@
 	--corner-text: 'NexusNG';
 
 	/* color of status indicators and window controls */
-	--online-indicator: hsl(0, 70%, 60%); /* heller Rot */
-	--dnd-indicator: hsl(0, 70%, 60%); /* ebenfalls heller Rot */
-	--idle-indicator: hsl(50, 60%, 70%); /* gelb, heller */
-	--streaming-indicator: hsl(260, 60%, 70%); /* lila, heller */
+	--online-indicator: hsl(0, 70%, 65%); /* mittleres Rot */
+	--dnd-indicator: hsl(0, 70%, 65%); /* mittleres Rot */
+	--idle-indicator: hsl(50, 60%, 75%); /* gelb, mittleres Gelb */
+	--streaming-indicator: hsl(260, 60%, 75%); /* lila, mittleres Lila */
 
 	/* accent colors */
-	--accent-1: hsl(0, 70%, 55%); /* Links in hellerem Rot */
-	--accent-2: hsl(0, 75%, 60%); /* allgemeine Akzente */
-	--accent-3: hsl(0, 70%, 50%); /* Buttons in moderatem Rot */
-	--accent-4: hsl(0, 70%, 45%); /* Buttons beim Hover */
-	--accent-5: hsl(0, 70%, 40%); /* Buttons beim Klicken */
-	--mention: hsla(0, 75%, 60%, 0.1); /* Erwähnungen & Nachrichten */
-	--mention-hover: hsla(0, 75%, 60%, 0.05); /* Erwähnungen beim Hover */
+	--accent-1: hsl(0, 70%, 60%); /* Links in mittlerem Rot */
+	--accent-2: hsl(0, 75%, 65%); /* allgemeine Akzente */
+	--accent-3: hsl(0, 70%, 55%); /* Buttons in mittlerem Rot */
+	--accent-4: hsl(0, 70%, 50%); /* Buttons beim Hover */
+	--accent-5: hsl(0, 70%, 45%); /* Buttons beim Klicken */
+	--mention: hsla(0, 75%, 65%, 0.1); /* Erwähnungen & Nachrichten */
+	--mention-hover: hsla(0, 75%, 65%, 0.05); /* Erwähnungen beim Hover */
 
 	/* text colors */
 	--text-0: white; /* Text auf farbigen Elementen */
 	--text-1: white; /* andere normale Texte in weiß */
 	--text-2: white; /* wichtige Texte in weiß */
-	--text-3: hsl(0, 20%, 95%); /* normale Texte in hellem Grau */
+	--text-3: hsl(0, 20%, 90%); /* normale Texte in hellem Grau */
 	--text-4: hsl(0, 20%, 80%); /* Icon-Buttons und Kanäle */
-	--text-5: hsl(0, 20%, 65%); /* stummgeschaltete Kanäle/Chats und Zeitstempel */
+	--text-5: hsl(0, 20%, 70%); /* stummgeschaltete Kanäle/Chats und Zeitstempel */
 
 	/* background and dark colors */
-	--bg-1: hsl(0, 0%, 10%); /* dunklerer Hintergrund beim Klicken */
-	--bg-2: hsl(0, 0%, 8%); /* dunklere Buttons */
-	--bg-3: hsl(0, 0%, 5%); /* sekundäre Elemente in dunklerem Schwarz */
-	--bg-4: hsl(0, 0%, 2%); /* Haupt-Hintergrund in dunklerem Schwarz */
-	--hover: hsla(0, 20%, 50%, 0.1); /* Hover für Kanäle und Buttons */
-	--active: hsla(0, 20%, 50%, 0.2); /* Aktive Kanäle und Buttons */
-	--message-hover: hsla(0, 0%, 5%, 0.1); /* Nachrichten beim Hover */
+	--bg-1: hsl(0, 0%, 15%); /* dunklerer Hintergrund beim Klicken */
+	--bg-2: hsl(0, 0%, 12%); /* dunklere Buttons */
+	--bg-3: hsl(0, 0%, 10%); /* sekundäre Elemente in sehr dunklem Schwarz */
+	--bg-4: hsl(0, 0%, 8%); /* Haupt-Hintergrund in sehr dunklem Schwarz */
+	--hover: hsla(0, 20%, 40%, 0.1); /* Hover für Kanäle und Buttons */
+	--active: hsla(0, 20%, 40%, 0.2); /* Aktive Kanäle und Buttons */
+	--message-hover: hsla(0, 0%, 8%, 0.1); /* Nachrichten beim Hover */
 
 	/* shadows */
 	--box-shadow-small: 0px 4px 8px rgba(0, 0, 0, 0.5); /* kleiner Schatten */
@@ -59,10 +59,10 @@
 	/* corner roundness (border-radius) */
 	--roundness-xl: 22px; /* roundness of big panel outer corners */
 	--roundness-l: 20px; /* popout panels */
-	--roundness-m: 16px; /* smaller panels, images, embeds */
-	--roundness-s: 12px; /* members, settings inputs */
-	--roundness-xs: 10px; /* channels, buttons */
-	--roundness-xxs: 8px; /* searchbar, small elements */
+	--roundness-m: 16px; /* kleinere Panels, Bilder, Einbettungen */
+	--roundness-s: 12px; /* Mitglieder, Einstellungen Eingabefelder */
+	--roundness-xs: 10px; /* Kanäle, Buttons */
+	--roundness-xxs: 8px; /* Suchleiste, kleine Elemente */
 
 	/* direct messages moon icon */
 	--discord-icon: none; /* discord icon */
