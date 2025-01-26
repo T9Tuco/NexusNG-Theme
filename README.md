@@ -1,51 +1,58 @@
 # NexusNG Discord Theme
 
-A sleek and modern Discord theme designed with deep black tones, striking red accents, and smooth hover animations for an immersive, polished user experience.
+A sleek and immersive Discord theme designed by the **official developers of the NexusNG UI**, featuring deep black tones, striking red accents, and smooth hover animations. This theme captures the essence of the NexusNG experience, bringing its futuristic aesthetic into Discord.
 
 ---
 
 ## 🎨 Features
-- **Dark Base**: A pure black background for an elegant, distraction-free appearance.
-- **Deep Red Highlights**: Bold, vibrant red accents throughout the UI for an eye-catching and unique aesthetic.
-- **Smooth Hover Animations**: Subtle, fluid animations when hovering over buttons and interactive elements for a premium feel.
-- **Minimalistic Design**: Simplistic yet stylish tweaks to keep the interface clean and user-friendly.
+- **Official NexusNG Design**: Built by the developers of NexusNG, this theme brings the iconic UI to your Discord experience.
+- **Dark Base**: A pure black background for an elegant and distraction-free look.
+- **Deep Red Highlights**: Bold and vibrant red accents throughout the UI for a sleek and modern aesthetic.
+- **Smooth Hover Animations**: Subtle, fluid animations on buttons and interactive elements for a polished feel.
+- **Minimalistic Design**: A clean and modern interface designed to reflect the signature NexusNG style.
 
 ---
 
 ## 🖌️ Installation
 
-### For [BetterDiscord](https://betterdiscord.app/):
-1. **Download the Theme**: [Click here to download](#).
+### For [Vencord](https://github.com/Vendicated/Vencord):
+1. **Install Vencord**: Follow the [official installation guide](https://github.com/Vendicated/Vencord#installation) if you haven’t already.
 2. **Add the Theme**:
-   - Move the downloaded `.theme.css` file to the BetterDiscord `Themes` folder.
-   - On Windows: `C:\Users\<YourUsername>\AppData\Roaming\BetterDiscord\themes`
-   - On Mac: `~/Library/Application Support/BetterDiscord/themes`
-3. **Enable the Theme**:
-   - Open Discord.
-   - Go to User Settings > Themes.
-   - Toggle the NexusNG Theme to enable it.
+   - Go to the Vencord settings in Discord (`User Settings > Vencord`).
+   - Navigate to the **Themes** tab.
+   - Paste the following URL into the custom themes input:  
+     `[Insert your hosted theme CSS URL here]`
+3. **Apply the Theme**:
+   - Enable the theme in the **Themes** tab.
+   - Enjoy the official NexusNG experience in Discord!
 
 ---
 
 ## ⚙️ Customization
-Want to tweak the theme? The `.css` file is fully editable! Adjust colors, animations, fonts, and more to match your personal taste.
+The theme is fully customizable. Clone the repository and tweak the `.css` file to adjust animations, colors, or other design elements to fit your personal preferences.
 
 ---
 
 ## 📸 Screenshots
-*(Insert a few screenshots here to showcase your theme in action, focusing on animations and aesthetics.)*
+![image](https://github.com/user-attachments/assets/99108e94-262f-45a1-ae0c-5a2463781806)
+![image](https://github.com/user-attachments/assets/d559de79-7116-42cf-80c0-efbc71dd9f0f)
+![image](https://github.com/user-attachments/assets/a5f41fcb-de72-4fb1-ba42-0662b2939c5e)
+
+
+
 
 ---
 
 ## 💡 Inspiration
-NexusNG is inspired by cyberpunk aesthetics and the smooth design of modern UIs. The combination of deep black, vibrant red, and animations brings a futuristic touch to Discord.
+This theme was directly inspired by the **NexusNG UI**, designed to bring the futuristic and bold aesthetics of NexusNG to Discord. Created by the same team, this theme ensures a cohesive and authentic experience for fans of the UI.
 
 ---
 
 ## 🙌 Contributing
-Have ideas or improvements? Feel free to fork the project and submit a pull request!
+Have suggestions or want to improve the theme? Feel free to fork the repository and submit a pull request. Contributions are always welcome!
 
 ---
 
 ## 📜 License
-This theme is open-source and licensed under the MIT License. Feel free to modify and share!
+This theme is open-source and licensed under the MIT License. Modify and share it freely!
+
