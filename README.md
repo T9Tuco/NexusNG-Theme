@@ -23,6 +23,8 @@ A sleek and immersive Discord theme designed by the **official developers of the
    - Navigate to the **Themes** tab.
    - Paste the following URL into the custom themes input:  
      `[https://raw.githubusercontent.com/T9Tuco/NexusNG-Theme/refs/heads/main/load.css]`
+   - If you want to to use ultra Dark theme use this link:
+     `[https://raw.githubusercontent.com/T9Tuco/NexusNG-Theme/refs/heads/main/ultra%20dark]`
 4. **Apply the Theme**:
    - Enable the theme in the **Themes** tab.
    - Enjoy the official NexusNG experience in Discord!
