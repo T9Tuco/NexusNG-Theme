@@ -21,7 +21,7 @@ A sleek and immersive Discord theme designed by the **official developers of the
    - Go to the Vencord settings in Discord (`User Settings > Vencord`).
    - Navigate to the **Themes** tab.
    - Paste the following URL into the custom themes input:  
-     `[Insert your hosted theme CSS URL here]`
+     `[https://raw.githubusercontent.com/T9Tuco/NexusNG-Theme/refs/heads/main/load.css]`
 3. **Apply the Theme**:
    - Enable the theme in the **Themes** tab.
    - Enjoy the official NexusNG experience in Discord!
