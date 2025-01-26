@@ -16,7 +16,7 @@ A sleek and immersive Discord theme designed by the **official developers of the
 ## 🖌️ Installation
 
 ### For [Vencord](https://github.com/Vendicated/Vencord):
-1. **Install Vencord**: Follow the [official installation guide](https://github.com/Vendicated/Vencord#installation) if you haven’t already. or download vencord via the vencord [download page](https://vencord.dev/download/)
+1. **Install Vencord**: Follow the [official installation guide](https://github.com/Vendicated/Vencord#installation) if you haven’t already. Or download vencord via the vencord [download page](https://vencord.dev/download/)
    
 3. **Add the Theme**:
    - Go to the Vencord settings in Discord (`User Settings > Vencord`).
